@@ -4,4 +4,4 @@ News Nexus is a responsive React application that displays news articles fetched
 
 ## Preview
 
-https://github.com/atharvthakle/React-News-Portal/assets/136578804/2973d550-b9b0-46c0-ba4d-c95d9daa294c
+https://github.com/atharvthakle/React-News-Portal/assets/136578804/78ec5cc5-fe58-44e0-809d-46be7fe0ab1d
