@@ -33,3 +33,7 @@ https://github.com/atharvthakle/React-News-Portal/assets/136578804/78ec5cc5-fe58
 ## NOTE
 
 Due to multiple issues I faced (which I couldn't resolve), I was unable to host the site on [Netlify](https://www.netlify.com/) as originally intended. I sincerely apologize for not providing a live website to showcase this project.
+
+## License
+
+This repository is licensed under the MIT License.
