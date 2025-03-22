@@ -18,11 +18,11 @@ https://github.com/atharvthakle/React-News-Portal/assets/136578804/78ec5cc5-fe58
 
 ## Technologies Used
 
-• React : The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
+• *React* : The app is built using React, a popular JavaScript library for building user interfaces. React provides a robust foundation for creating interactive and dynamic components.
 
-• Vite : A fast and modern build tool for JavaScript and TypeScript, providing rapid development and optimized production builds.
+• *Vite* : A fast and modern build tool for JavaScript and TypeScript, providing rapid development and optimized production builds.
 
-• Git : A version control system for tracking changes in the source code and collaborating with others.
+• *Git* : A version control system for tracking changes in the source code and collaborating with others.
 
 ## Acknowledgements
 
